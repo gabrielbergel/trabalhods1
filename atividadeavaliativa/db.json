@@ -1,0 +1,85 @@
+{
+  "equipamentos": [
+    {
+      "id": "1",
+      "tipo": "Projetor",
+      "marca": "Epson",
+      "modelo": "PowerLite S39",
+      "numero_serie": "S39-123456",
+      "data_aquisicao": "15-01-2022",
+      "status": false
+    },
+    {
+      "id": "2",
+      "tipo": "damaca",
+      "marca": "eeeeee",
+      "modelo": "dddd",
+      "numero_serie": "9-1uiqe9012u48qiwd",
+      "data_aquisicao": "09-11-2001",
+      "status": false
+    },
+    {
+      "id": "3",
+      "tipo": "Computador",
+      "marca": "HP",
+      "modelo": "ProDesk 400 G6",
+      "numero_serie": "400G6-345678",
+      "data_aquisicao": "2020-09-10",
+      "status": "Disponível"
+    },
+    {
+      "id": "4",
+      "tipo": "Impressora",
+      "marca": "Canon",
+      "modelo": "PIXMA TS6320",
+      "numero_serie": "TS6320-234567",
+      "data_aquisicao": "2021-11-30",
+      "status": "Disponível"
+    },
+    {
+      "id": "5",
+      "tipo": "Switch",
+      "marca": "Cisco",
+      "modelo": "Catalyst 2960",
+      "numero_serie": "2960-456789",
+      "data_aquisicao": "2020-07-25",
+      "status": "Em uso"
+    },
+    {
+      "id": "6",
+      "tipo": "Roteador",
+      "marca": "TP-Link",
+      "modelo": "Archer C6",
+      "numero_serie": "C6-567890",
+      "data_aquisicao": "2021-03-12",
+      "status": "Disponível"
+    },
+    {
+      "id": "8",
+      "tipo": "Telefone IP",
+      "marca": "Yealink",
+      "modelo": "SIP-T46S",
+      "numero_serie": "T46S-789012",
+      "data_aquisicao": "2020-04-18",
+      "status": "Disponível"
+    },
+    {
+      "id": "9",
+      "tipo": "Tablet",
+      "marca": "Samsung",
+      "modelo": "Galaxy Tab S7",
+      "numero_serie": "S7-890123",
+      "data_aquisicao": "2021-08-22",
+      "status": "Em uso"
+    },
+    {
+      "id": "10",
+      "tipo": "Servidor",
+      "marca": "Dell EMC",
+      "modelo": "PowerEdge R640",
+      "numero_serie": "R640-901234",
+      "data_aquisicao": "2019-10-09",
+      "status": "Em uso"
+    }
+  ]
+}
