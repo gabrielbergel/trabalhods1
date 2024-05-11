@@ -15,7 +15,7 @@ interface IEquipamento {
 }
 
 
-async function fetchEquipamentos(): Promise<any> {
+async function fetchEquipamentos(): Promise<any> { // tipar o retorno!
   const result = await api.get("/equipamentos");
   console.log(result);
   return result.data;
